@@ -100,3 +100,15 @@ form h4 {
   color: white;
   background-color: black;
 }
+
+#delete-button {
+  width: 30%;
+  padding: 0.25rem;
+  margin: 0.5rem 0;
+  color: white;
+  background-color: black;
+}
+
+#delete-button:active {
+  background-color: gray;
+}
